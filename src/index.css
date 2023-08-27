@@ -1,6 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-.font-custom {
-  font-family: 'Grenze Gotisch', cursive;
+
+
+.font-custom2{
+  font-family: 'Jost',sans-serif;
+}
+
+.font-custom1 {
+  font-family: 'Grenze Gotisch', cursive !important;
 }

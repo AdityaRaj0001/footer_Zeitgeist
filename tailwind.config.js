@@ -5,9 +5,6 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    fontFamily:{
-      text: ["Grenze Gotisch", "cursive"],
-    },
     extend: {
       colors: {
         'custom-yellow':'#723E30',
