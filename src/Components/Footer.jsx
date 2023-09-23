@@ -12,7 +12,6 @@ const Footer = () => {
     <div className=" bg-custom-yellow font-custom2 h-auto flex flex-col">
 
         {/* footer content div */}
-      <img src={footerbg} className=" -z-10 w-full h-full object-cover absolute mix-blend-overlay"/>
 
 
       <div className=" tracking-wide flex flex-col gap-16 md:flex-row justify-center items-center">
